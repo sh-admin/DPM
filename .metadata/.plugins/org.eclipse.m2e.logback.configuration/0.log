@@ -1,41 +1,65 @@
-2017-12-18 12:14:40,032 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\hansi\JavaSamples\DPM\dpm-master\pom.xml
-2017-12-18 12:14:43,200 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.virtusa.dpm:dpm-master:0.0.1-SNAPSHOT @ C:\hansi\JavaSamples\DPM\dpm-master\pom.xml.
-2017-12-18 12:14:46,254 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dpm-master/src/main/java
-2017-12-18 12:14:46,267 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dpm-master/src/test/java
-2017-12-18 12:14:47,316 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
-2017-12-18 12:14:48,643 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:14:48,644 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:14:48,645 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:14:48,646 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:15:23,017 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:15:23,017 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:15:23,018 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:15:23,018 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:30:42,656 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:30:42,657 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:30:42,658 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:30:42,658 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:31:04,032 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:31:04,032 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:31:04,033 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:31:04,033 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:31:18,858 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:31:18,859 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:31:18,860 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:31:18,860 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:31:33,645 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:31:33,646 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:31:33,647 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:31:33,647 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:32:22,931 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:32:22,931 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:32:22,932 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:32:22,932 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:32:44,765 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:32:44,765 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:32:44,769 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:32:44,769 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
-2017-12-18 12:33:05,875 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:33:05,875 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
-2017-12-18 12:33:05,876 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2017-12-18 12:33:05,876 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:21:48,520 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\hansi\JavaSamples\DPM\dpm-master\pom.xml
+2017-12-18 15:21:50,806 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.virtusa:dpm-master:0.0.1-SNAPSHOT @ C:\hansi\JavaSamples\DPM\dpm-master\pom.xml.
+2017-12-18 15:21:52,305 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dpm-master/src/main/java
+2017-12-18 15:21:52,316 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dpm-master/src/test/java
+2017-12-18 15:21:53,186 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2017-12-18 15:21:53,841 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:21:53,842 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:21:53,844 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:21:53,844 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:22:53,890 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:22:53,891 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:22:53,893 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:22:53,893 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:23:09,341 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:09,342 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:23:09,344 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:09,344 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:23:20,140 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:20,140 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:23:20,141 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:20,141 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:23:32,299 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:32,300 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:23:32,303 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:32,303 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:23:55,849 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:55,849 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:23:55,850 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:55,850 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:23:56,951 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:56,952 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:23:56,953 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:23:56,953 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:24:02,695 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:24:02,698 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:24:02,700 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:24:02,700 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:24:39,231 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:24:39,232 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:24:39,233 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:24:39,234 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:41:55,928 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:41:55,929 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:41:55,929 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:41:55,930 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:42:46,423 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:42:46,423 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:42:46,424 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:42:46,424 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:46:20,273 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:46:20,273 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:46:20,275 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:46:20,275 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:46:39,340 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:46:39,341 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:46:39,346 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:46:39,348 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 15:54:00,297 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:54:00,297 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 15:54:00,298 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:54:00,298 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-18 16:12:38,128 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 16:12:38,128 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\main\resources
+2017-12-18 16:12:38,129 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 16:12:38,130 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
