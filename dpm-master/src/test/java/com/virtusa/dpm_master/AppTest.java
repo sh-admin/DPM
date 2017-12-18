@@ -1,4 +1,4 @@
-package com.virtusa.dpm.dpm_master;
+package com.virtusa.dpm_master;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
