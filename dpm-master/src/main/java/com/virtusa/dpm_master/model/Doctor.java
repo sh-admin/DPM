@@ -7,6 +7,7 @@ public class Doctor {
 	private String docSpecArea;
 	private String mobileNumber;
 	private String address;
+	private Schedule schedule;
 
 	public int getDocId() {
 		return docId;
@@ -46,6 +47,14 @@ public class Doctor {
 
 	public void setAddress(String address) {
 		this.address = address;
+	}
+
+	public Schedule getSchedule() {
+		return schedule;
+	}
+
+	public void setSchedule(Schedule schedule) {
+		this.schedule = schedule;
 	}
 
 }
