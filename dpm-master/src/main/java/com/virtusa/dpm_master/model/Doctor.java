@@ -1,12 +1,26 @@
 package com.virtusa.dpm_master.model;
 
-public class Doctor {
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
 
+@Entity
+@Table(name="tbl_Doctor")
+public class Doctor {
+	@Id
+	@Column(name="Doc_Id")
 	private int docId;
+	@Column(name="Doc_Name")
 	private String docName;
+	@Column(name="Doc_Specialisation")
 	private String docSpecArea;
+	@Column(name="Mobile_No")
 	private String mobileNumber;
+	@Column(name="Address")
 	private String address;
+	@OneToMany(mappedBy="doctor")
 	private Schedule schedule;
 
 	public int getDocId() {
