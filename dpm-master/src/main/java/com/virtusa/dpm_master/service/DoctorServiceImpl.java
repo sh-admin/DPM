@@ -10,8 +10,8 @@ public class DoctorServiceImpl implements DoctorService {
 	
 	@Autowired
 	DoctorRepository doctorRepository;
-	
-	public void addDoctor(Doctor doctor) {
+
+	public void addDoctor(Doctor doctor){
 		doctorRepository.save(doctor);
 	}
 

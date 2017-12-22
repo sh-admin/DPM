@@ -1,5 +1,7 @@
 package com.virtusa.dpm_master.model;
 
+import java.util.List;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -25,7 +27,7 @@ public class Patient {
 	@Column(name="description")
 	private String Description;
 	@OneToMany(mappedBy="patient")
-	private Appoinment appoinment;
+	private List<Appoinment> appoinment;
 
 	public int getId() {
 		return id;
@@ -83,11 +85,11 @@ public class Patient {
 		Description = description;
 	}
 
-	public Appoinment getAppoinment() {
+	public List<Appoinment> getAppoinment() {
 		return appoinment;
 	}
 
-	public void setAppoinment(Appoinment appoinment) {
+	public void setAppoinment(List<Appoinment> appoinment) {
 		this.appoinment = appoinment;
 	}
 

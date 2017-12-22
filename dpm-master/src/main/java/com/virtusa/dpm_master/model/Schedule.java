@@ -2,6 +2,7 @@ package com.virtusa.dpm_master.model;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.util.List;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -27,7 +28,7 @@ public class Schedule {
 	@Column(name = "Location")
 	private String location;
 	@OneToMany(mappedBy = "schedule")
-	private Appoinment appoinment;
+	private List<Appoinment> appoinment;
 	@ManyToOne(fetch = FetchType.LAZY)
 	@JoinColumn(name = "Doc_Id")
 	private Doctor doctor;
@@ -72,11 +73,11 @@ public class Schedule {
 		this.location = location;
 	}
 
-	public Appoinment getAppoinment() {
+	public List<Appoinment> getAppoinment() {
 		return appoinment;
 	}
 
-	public void setAppoinment(Appoinment appoinment) {
+	public void setAppoinment(List<Appoinment> appoinment) {
 		this.appoinment = appoinment;
 	}
 
