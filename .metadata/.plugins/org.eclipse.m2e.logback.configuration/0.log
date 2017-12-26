@@ -593,3 +593,9 @@
 2017-12-22 15:54:10,198 [Worker-1102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-12-22 15:54:10,199 [Worker-1102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-12-22 15:54:10,200 [Worker-1102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
+2017-12-26 12:44:56,410 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.virtusa:dpm-master:0.0.1-SNAPSHOT @ C:\hansi\JavaSamples\DPM\dpm-master\pom.xml.
+2017-12-26 12:45:02,285 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-26 12:45:02,308 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-26 12:45:02,330 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-26 12:45:02,333 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-26 12:45:02,333 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\hansi\JavaSamples\DPM\dpm-master\src\test\resources
